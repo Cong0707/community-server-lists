@@ -1,9 +1,9 @@
 {
-    "name": "ChinaList",
+    "name": "communityServerList",
     "displayName": "[gold]全球服务器[yellow]ghproxy版[]",
     "author": "Cong",
     "description": "修改全球服务器加载方式为镜像站",
-    "version": "1.4",
+    "version": "1.0",
     "minGameVersion": "140",
     "dependencies": [ ],
     "hidden": true
