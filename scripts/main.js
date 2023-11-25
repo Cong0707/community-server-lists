@@ -1,5 +1,5 @@
 Events.on(EventType.ClientLoadEvent, () => {
-    var url = "https://ghproxy.com/github.com/Anuken/Mindustry/blob/master/servers_v7.json"
+    var url = "https://mirror.ghproxy.com/github.com/Anuken/Mindustry/blob/master/servers_v7.json"
     var callback = d => {
         try {
             let list = JSON.parse(new java.lang.String(d.getResult(), "UTF-8"));
